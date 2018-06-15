@@ -6,3 +6,8 @@ if {
 $y+$5=$9;
 y=x;
 }
+G-pqrs;
+s=tesrt;
+then
+y=p;
+end
